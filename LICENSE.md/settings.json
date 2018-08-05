@@ -1,5 +1,0 @@
-{
-	"apiserver": "http://api.encrypted-vpn.com",
-	"register": "http://encrypted-vpn.com/register",
-	"upgrade": "http://encrypted-vpn.com/upgrade"
-}
