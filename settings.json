@@ -1,5 +1,6 @@
 {
 	"apiserver": "http://api.encrypted-vpn.com",
 	"register": "http://encrypted-vpn.com/register",
-	"upgrade": "http://encrypted-vpn.com/upgrade"
+	"upgrade": "http://encrypted-vpn.com/upgrade",
+	"forgotpwd": "http://encrypted-vpn.com/forgotpwd"
 }
