@@ -3,5 +3,5 @@
 	"register": "http://account.cryptovpn.pro/register/",
 	"upgrade": "http://account.cryptovpn.pro/upgrade/",
 	"forgotpwd": "http://account.cryptovpn.pro/forgotpwd",
-	"terms": "http://account.cryptovpn.pro/terms.html"
+	"terms": "http://account.cryptovpn.pro/terms.htm"
 }
