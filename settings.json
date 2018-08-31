@@ -1,7 +1,7 @@
 {
 	"apiserver": "http://api.encrypted-vpn.com",
 	"register": "http://demo.atomicframework.net/pages/register",
-	"upgrade": "http://account.cryptovpn.pro/upgrade/",
-	"forgotpwd": "http://account.cryptovpn.pro/forgotpwd",
+	"upgrade": "http://demo.atomicframework.net/atomic-layouts/basic/basic-1",
+	"forgotpwd": "http://demo.atomicframework.net/pages/forgot-pass",
 	"terms": "http://account.cryptovpn.pro/terms.htm"
 }
