@@ -1,5 +1,5 @@
 {
-	"apiserver": "https://api.cryptovpn.pro",
+	"apiserver": "https://api.cryptovpn.pro/",
 	"register": "https://account.cryptovpn.pro/register",
 	"upgrade": "https://account.cryptovpn.pro/payments",
 	"forgotpwd": "https://account.cryptovpn.pro/forgot-password",
