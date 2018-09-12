@@ -1,7 +1,7 @@
 {
 	"apiserver": "http://api.encrypted-vpn.com",
-	"register": "http://account.cryptovpn.pro/register",
-	"upgrade": "http://account.cryptovpn.pro/payments",
-	"forgotpwd": "http://account.cryptovpn.pro/forgot-password",
-	"terms": "http://account.cryptovpn.pro/terms"
+	"register": "https://account.cryptovpn.pro/register",
+	"upgrade": "https://account.cryptovpn.pro/payments",
+	"forgotpwd": "https://account.cryptovpn.pro/forgot-password",
+	"terms": "https://account.cryptovpn.pro/terms"
 }
