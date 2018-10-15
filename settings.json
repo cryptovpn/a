@@ -4,7 +4,7 @@
 	"upgrade": "https://account.cryptovpn.pro/payments",
 	"forgotpwd": "https://account.cryptovpn.pro/forgot-password",
 	"terms": "https://cryptovpn.pro/terms.html",
-	"minimum_supported_version": "1.1.9",
+	"minimum_supported_version": "1.0.9",
 	"windows_update_url": "https://account.cryptovpn.pro/download",
 	"ios_update_url": "https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8",
 	"android_update_url": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn",
