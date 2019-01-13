@@ -2,6 +2,9 @@
 	"apiserver": "https://api.cryptovpn.pro/",
 	"register": "https://account.cryptovpn.pro/register",
 	"upgrade": "https://account.cryptovpn.pro/payments",
+	"get-more": "https://cryptovpn.pro/get-more",
+	"contact-us": "https://cryptovpn.pro/contact-us",
+	"download": "https://cryptovpn.pro/download",
 	"forgotpwd": "https://account.cryptovpn.pro/forgot-password",
 	"terms": "https://cryptovpn.pro/terms.html",
 	"minimum_supported_version": "1.0.11",
@@ -9,5 +12,11 @@
 	"ios_update_url": "https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8",
 	"android_update_url": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn",
 	"ios_feedback_url": "https://itunes.apple.com/us/app/openvpn-connect/id590379981?mt=8",
-	"android_feedback_url": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn"
+	"android_feedback_url": "https://play.google.com/store/apps/details?id=net.openvpn.openvpn",
+	"messages": {
+		"ru": {
+			"1001": "Вы превысили лимит в 500 mb в месяц. Зарегистрируй акаунт, что бы иметь 1000 mb в месяц бесплатно",
+			"1002": "Мы рады , что Вы используете наш сервис и уже потратили 1000 МБ за месяц. Что бы продолжить пользоваться CryptoVPN мы предлагаем несколько вариантов оплаты наших стараний",
+		}
+	}
 }
