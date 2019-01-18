@@ -1,6 +1,6 @@
 {
 	"apiserver": "https://api.cryptovpn.pro/",
-	"register": "https://account.cryptovpn.pro/register",
+	"register": "https://account.cryptovpn.pro/register-webview",
 	"upgrade": "https://account.cryptovpn.pro/payments",
 	"get-more": "https://cryptovpn.pro/get-more",
 	"contact-us": "https://cryptovpn.pro/contact-us",
