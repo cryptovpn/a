@@ -3,7 +3,7 @@
 	"register": "https://account.cryptovpn.pro/register-webview",
 	"upgrade": "https://account.cryptovpn.pro/payments",
 	"get-more": "https://cryptovpn.pro#plan",
-	"contact-us": "https://cryptovpn.pro/contact-us",
+	"contact-us": "https://cryptovpn.pro/#app",
 	"download": "https://cryptovpn.pro/download",
 	"forgotpwd": "https://account.cryptovpn.pro/forgot-password-webview",
 	"terms": "https://cryptovpn.pro/terms.html",
